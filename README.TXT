@@ -105,3 +105,7 @@ Implemented logging to track ETL pipeline execution.
 3. Make sure the Data Warehouse database and tables exist.
 4. Run the ETL scripts in the correct order.
 5. Execute load.py to load the processed data into SQL Server.
+
+
+
+My first directly on GitHub.
