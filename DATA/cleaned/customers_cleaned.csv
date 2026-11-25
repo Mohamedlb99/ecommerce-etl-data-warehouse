@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,city,country,signup_date
+1,Ahmed,Hassan,ahmed.hassan@email.com,Cairo,Egypt,2025-01-12
+2,Mona,Ali,mona.ali@email.com,Alexandria,Egypt,2025-02-03
+3,Omar,Khaled,omar.k@email.com,Giza,Egypt,2025-02-18
+4,Sara,Mahmoud,sara.m@email.com,Luxor,Egypt,2025-03-01
+5,Youssef,Adel,y.adel@email.com,Aswan,Egypt,2025-03-11
+6,Nour,Samir,nour.s@email.com,Cairo,Egypt,2025-03-19
+7,Karim,Fathy,karim.f@email.com,Tanta,Egypt,2025-04-02
+8,Hana,Mostafa,hana.m@email.com,Mansoura,Egypt,2025-04-14
+9,Ali,Ibrahim,ali.i@email.com,Cairo,Egypt,2025-05-06
+10,Salma,Nabil,salma.n@email.com,Ismailia,Egypt,2025-05-21
+11,Mai,Reda,,Port Said,Egypt,2025-06-01
+12,Tarek,Gamal,tarek.g@email.com,Fayoum,Egypt,2025-06-17

@@ -1,0 +1,5 @@
+order_item_id,order_id,product_id,quantity,unit_price,discount_pct
+31,5004,108,0,6200.0,0
+33,5007,103,2,-950.0,0
+32,5013,999,1,300.0,0
+34,5009,101,1,18500.0,125

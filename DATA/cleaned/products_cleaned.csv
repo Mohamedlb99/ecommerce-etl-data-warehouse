@@ -1,0 +1,13 @@
+product_id,product_name,category,unit_price,is_active
+101,Laptop 14 inch,Electronics,18500.0,Y
+102,Wireless Mouse,Accessories,450.0,Y
+103,USB-C Hub,Accessories,950.0,Y
+104,Office Chair,Furniture,4200.0,Y
+105,Desk Lamp,Home,780.0,Y
+106,Smartphone 128GB,Electronics,12500.0,Y
+107,Keyboard,Accessories,1100.0,Y
+108,Monitor 24 inch,Electronics,6200.0,Y
+109,Water Bottle,Home,250.0,N
+110,Headphones,Electronics,1750.0,Y
+111,Notebook Pack,Stationery,120.0,Y
+112,Backpack,Accessories,890.0,Y
